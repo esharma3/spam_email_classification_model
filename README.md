@@ -12,3 +12,6 @@ The purpose of this project is to classify an email as spam or not spam using SV
 *   Natural Language Processing | Classification Models | Scikit Learn | NLTK | Pipeline | Imbalance Learn | TF-IDF
 *   Data Analysis - Pandas | Numpy | Matplotlib
 *   Python3
+
+## Data Source
+Kaggle
