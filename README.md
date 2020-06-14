@@ -1,4 +1,4 @@
-# spam_email_classification_model
+# Spam Email Classification Model 
 Classifying an email as spam or ham!!
 
-![Spam Email](images/spam.png)
+![Spam Email](images/spam.jpg)
