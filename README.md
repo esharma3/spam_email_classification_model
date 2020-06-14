@@ -5,5 +5,6 @@
 
 ## Tools & Modules Used
 
-*   Machine Learning - Natural Language Processing | Classification Models | Scikit Learn | NLTK | Pipeline | Imbalance Learn | TF-IDF
+*   Natural Language Processing | Classification Models | Scikit Learn | NLTK | Pipeline | Imbalance Learn | TF-IDF
 *   Data Analysis - Pandas | Numpy | Matplotlib
+*   Python3
